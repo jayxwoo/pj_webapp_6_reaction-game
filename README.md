@@ -1,19 +1,16 @@
-# 6_reaction-time
+# 6. Reaction Game (Vue.js)
+## Screenshots
+![screenshot-01](./screenshots/screenshot-01.png)
+![screenshot-01](./screenshots/screenshot-02.png)
 
-## Project setup
-```
-npm install
-```
+## Features
+- Block appears after a random amount of time between 2 and 7 seconds
+- Player tries to click the block as fast as possible
+- Reaction time is measured and displayed
+- Different rank messages are displayed according to the reaction time
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Skills
+- HTML
+- CSS
+- JS
+- Vue.js
